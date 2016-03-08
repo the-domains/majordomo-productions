@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MajorDomo Productions]]></title>
         <description><![CDATA[MajorDomo Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/majordomo-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 18:29:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 18:33:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/majordomo-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8149c18f-336c-4892-8f07-11f45f379dd4.png">]]></description>
-            <link>undefined0c7fb479-f7ed-4773-9afe-a2ae50b1bdad/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b74845a6d7fb4c246977ef4d39e14ee5d047009a.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/majordomo-productions/0c7fb479-f7ed-4773-9afe-a2ae50b1bdad/index.html</link>
             <guid isPermaLink="false">0c7fb479-f7ed-4773-9afe-a2ae50b1bdad</guid>
-            <pubDate>Tue, 08 Mar 2016 18:28:36 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 18:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
